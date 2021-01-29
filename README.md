@@ -17,9 +17,9 @@ A collection of useful notes for DL in NLP
    - http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
    - https://arxiv.org/pdf/1301.3781.pdf (original word2vec paper)
    - https://towardsdatascience.com/word2vec-from-scratch-with-numpy-8786ddd49e72 (w2v from scratch)
-#### Negative sampling
-   - http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf (negative sampling paper)
-   - http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/ 
+   - Negative sampling:
+    - http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf (negative sampling paper)
+    - http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/ 
    
 ## Neural Networks. Backpropagation
  

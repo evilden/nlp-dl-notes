@@ -1,5 +1,5 @@
 # nlp-dl-notes
-
+A collection of useful notes for DL in NLP
 ### Word Vector Representations
 
 * [Word Vector Representations (word2vec)](https://youtu.be/8rXD5-xhemo)

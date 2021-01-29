@@ -1,4 +1,4 @@
-# nlp-notes
+# nlp-dl-notes
 
 ### Word Vector Representations
 

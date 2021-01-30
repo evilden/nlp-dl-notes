@@ -12,6 +12,7 @@ A collection of useful notes for DL in NLP
   * [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
  
 ### Word2Vec
+* http://jalammar.github.io/illustrated-word2vec/
 * https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf
 * https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes02-wordvecs2.pdf
 * http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/

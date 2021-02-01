@@ -25,6 +25,7 @@ A collection of useful notes for DL in NLP
 ## Neural Networks. Backpropagation
  
  * [CS224n: Word Vectors and Word Senses](https://youtu.be/kEMJRjEdNzM) (38:40-58:00)
+ * [Gradient descent funny video](https://youtu.be/sDv4f4s2SB8)
  * [Enriching Word Vectors with Subword Information](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00051)
  * [CS231n: Backpropagation, Neural Networks 1](https://youtu.be/i94OvYb6noo)
  * Additional materials:

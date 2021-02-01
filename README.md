@@ -64,4 +64,7 @@ A collection of useful notes for DL in NLP
 * [Paper: Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)
 * [Paper: Effective approaches to attention-based neural machine translation](https://arxiv.org/pdf/1508.04025)
 * [Article: Attention? Attention! by Lilian Weng](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
-* [Jay Alammar post about Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+* [Jay Alammar Illustrated Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+
+## Transformers
+* [Jay Alammar Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
